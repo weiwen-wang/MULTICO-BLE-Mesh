@@ -32,8 +32,12 @@ I used the very simple example of generic_on_off to test the communication perfo
 After flashing the project in nRF52840, you need a provisioner to build the mesh network. I use the nRF Mesh app on the phone, you can download it on either Apple store or Google shop. Raspberry pi can also be the provisioner but you need some operation to install bluez core in it. The details are in the **Raspberryprovision**
 
 Some useful links:
+
+
 https://docs.zephyrproject.org/latest/samples/classic.html
 The Zephyr OS is based on a small-footprint kernel designed for use on resource-constrained and embedded systems, also suitable for nRF52840
+
+
 https://devzone.nordicsemi.com/
 The forum of Nordic Semiconductor, find the solutions of the problems with nRF52840.
 
