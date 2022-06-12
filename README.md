@@ -1,13 +1,19 @@
 # MULTICO-BLE-Mesh
 
 
-##Mesh knowledge
+**Mesh knowledge**
 
 This file contains the overview of BLE Mesh, Mesh Profile and Mesh Model
 
-##Mesh knowledge
+**Weiwen's Thesis**
 
-This file contains the overview of BLE Mesh, Mesh Profile and Mesh Model
+This file contains the theis and presentation about my work.
+
+
+
+For the sensor part:
+
+In sensor code, the paper introduce the mathematical process and the coding is based on it. The microphone should be connected to the raspberry pi with USB interfacce. And the get_device_index.py can be used to get the index of microphone. This index will be used in the recording code.
 
 
 Some reference of the BLE Mesh network:
